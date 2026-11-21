@@ -1,6 +1,6 @@
 # Hello profile visitor  I am Dabotman3000
 
-### Mah pronouns are He/Him
+### pronouns are He/Him
 <!--
 **Dabotman3000/Dabotman3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
