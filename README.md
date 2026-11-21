@@ -1,5 +1,6 @@
-##Hello profile visitor  I am Dabotman3000
-He/Him
+# Hello profile visitor  I am Dabotman3000
+
+### Mah pronouns are He/Him
 <!--
 **Dabotman3000/Dabotman3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,29 +25,18 @@ My interests revolve around data, robotics, automation, and infrastructure, with
 
 I'm continuously learning, experimenting, and expanding my technical skill set.
 
-🔬 Areas of Interest
+# Some of my areas of Interest:
 
-📊 Data & Analytics — Data processing, analysis, visualization, and building systems that turn information into insights.
+📊 Data engineering and Machine Learning 
 
 🤖 Robotics & Automation — Robotics, embedded systems, control systems, sensors, and the interaction between software and hardware.
 
-☁️ Cloud & Infrastructure — Cloud computing, distributed systems, Linux, and infrastructure automation.
+☁️ Cloud & Infrastructure
 
-⚙️ DevOps & Engineering — CI/CD, scripting, containers, infrastructure as code, and system reliability.
+⚙️ DevOps & Engineering 
 
-💻 Programming — Software development, problem-solving, and exploring new technologies.
-
-
-Exploring
-
-Data engineering and Machine Learning
-
-Robotics 
-
-Automation and control systems
-
-Intelligent systems
+💻 Intelligent systems 
 
 
 
-⭐ Thanks for stopping by!
+## ⭐ Thanks for stopping by!
